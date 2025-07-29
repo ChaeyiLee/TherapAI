@@ -1,3 +1,10 @@
+# TherapAI
+This project was an app that helps users track mental health symptoms and suggests coping mechanisms or professional help. Conversational AI: Users can chat with TherapAI, which responds with meaningful text-based interactions. Text-to-Speech (TTS): Responses can be spoken aloud using the browser's Speech Synthesis API. Chat History Export: Users can download their conversation as a text file for reference. Dynamic Background Color: The background changes based on the chatbot’s response to indicate different moods. Voice Selection: Users can choose from available system voices or languages for text-to-speech. Image Upload: Users can upload an image to personalize their chatbot experience. Responsive UI: The interface adapts for a smooth user experience.
+
+# This was completed during HackMerced X
+Group members: Charlie Jurney, David Kyriakidis, Chaeyi Lee, Sohdai Yokokawa
+Github was not used for version control, but everyone committed to this project using React App and VS Code.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
