@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.squish-animation {
+  animation: squish 1s ease-in-out infinite alternate;
+}
+
+@keyframes squish {
+  0% {
+    transform: scaleY(1);
+  }
+  50% {
+    transform: scaleY(0.85);
+  }
+  100% {
+    transform: scaleY(1);
+  }
+}
+
+.div-container {
+  /* ... other styles ... */
+  transition: background-color 0.5s ease; /* Add this line */
+}
